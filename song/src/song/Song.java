@@ -15,9 +15,19 @@ public class Song {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Code inside the main method
+        hook();
+        hook();
+        hook();
+        hook();
+        hook();
+        hook();
+        hook();
         
             
     }
-    
+    public static void hook()
+    {
+        System.out.println ("I'm losing it");
+        System.out.println ();
+    }
 }
